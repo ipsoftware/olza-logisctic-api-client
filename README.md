@@ -1,7 +1,7 @@
 # Guuzlee 6.5
 
 ```bash
-composer.phar require ipsoftware/olza-logisctic-api-client:dev-master
+composer.phar require ipsoftware/olza-logisctic-api-client
 ```
 
 # Fix 
