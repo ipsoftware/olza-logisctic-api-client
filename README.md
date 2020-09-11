@@ -1,8 +1,5 @@
 # Guuzlee 6.5
 
-Foobar is a Python library for dealing with word pluralization.
-
-
 ```bash
 composer.phar require ipsoftware/olza-logisctic-api-client:dev-master
 ```
